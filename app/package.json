@@ -1,0 +1,16 @@
+{
+    "name": "myapp",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+      "react": "17.0.2",
+      "react-native": "0.68.2",
+      "@react-navigation/native": "^6.0.0",
+      "@react-navigation/stack": "^6.0.0"
+    },
+    "scripts": {
+      "start": "react-native start",
+      "android": "react-native run-android",
+      "ios": "react-native run-ios"
+    }
+  }
